@@ -1,2 +1,2 @@
 # CodeSharingPlatform
-Multi-user web service with Spring Boot that allows storing, retrieving, updating, and deleting recipes.
+Secure version of a simple code-sharing platform.  https://hyperskill.org/projects/130
